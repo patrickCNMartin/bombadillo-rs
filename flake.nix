@@ -1,5 +1,5 @@
 {
-  description = "Bombadillo";
+  description = "bombadillo-rs";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
